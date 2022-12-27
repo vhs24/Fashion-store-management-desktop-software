@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hibernateDataAdapter class="net.sf.jasperreports.data.hibernate.HibernateDataAdapterImpl"><name>NewDataAdapter</name><xMLFileName>C:\Users\voson\OneDrive - Industrial University of HoChiMinh City\Documents\TH\PTUD\Nhom12PTUD.BTL_QuanLyCuaHangBanDoThoiTrangSSPN14\src\main\resources\Hibernate.cfg.xml</xMLFileName><propertiesFileName></propertiesFileName><useAnnotation>false</useAnnotation></hibernateDataAdapter>
