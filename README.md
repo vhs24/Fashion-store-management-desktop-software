@@ -2,6 +2,8 @@
 
 ### Project using Java swing, sql server, jaspersoft
 
+### Member: 1
+
 ### Has 2 role: admin, employee
 
 #### Main screen for admin
